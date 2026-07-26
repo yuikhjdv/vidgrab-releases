@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "1.1",
   "apkUrl": "https://github.com/yuikhjdv/vidgrab-releases/releases/download/v1.0/VidGrab.apk",
-  "notes": "초기 버전"
+  "notes": "업데이트 흐름 검증용 임시 매니페스트"
 }
