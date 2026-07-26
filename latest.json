@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/yuikhjdv/vidgrab-releases/releases/download/v1.0/VidGrab.apk",
-  "notes": "초기 버전"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/yuikhjdv/vidgrab-releases/releases/download/v1.1/VidGrab.apk",
+  "notes": "크기 미상 대신 예측 용량 표시 · 썸네일 개선 · 변환 결과가 원본보다 크면 원본 유지"
 }
